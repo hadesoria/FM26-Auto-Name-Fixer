@@ -19,7 +19,7 @@ If you just want to use the tool, you don't need Python or any coding knowledge!
 
 1. Download the latest `FM26_Auto_Name_Fixer` from the [Releases](#) tab.
 2. Download your preferred FM26 Real Name Fix (e.g. from Sortitoutsi or FMScout).
-3. Double-click the `.exe` file.
+3. Double-click the `.exe` file in "dist" folder.
 4. If it didn't find them automatically, ensure the Game Path and Documents Path are correct.
 5. Click **Select ZIP** (or Folder) and point it to the Name Fix you downloaded.
 6. Click **APPLY FIX**.
