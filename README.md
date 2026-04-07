@@ -4,8 +4,6 @@ A lightweight, fully automated tool that applies the "Real Name Fix" for Footbal
 
 This application automates the entire process in one click!
 
-![App GUI Screenshot](https://raw.githubusercontent.com/username/fm26-auto-name-fixer/main/screenshot.png) *(Add a screenshot of the app here)*
-
 ## ✨ Features
 
 - **One-Click Installation**: Select your Name Fix file, and the tool does the rest.
